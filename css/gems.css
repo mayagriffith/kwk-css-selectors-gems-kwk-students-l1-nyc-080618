@@ -34,7 +34,7 @@
   left: 200px;
 }
 
-img[alt = "Diamond"]/*selector for diamond goes here */ {
+img[alt="Diamond"]/*selector for diamond goes here */ {
   position: absolute;
   z-index: 3;
   top: 300px;
